@@ -1,6 +1,6 @@
 # 後端登入頁面
 
-![後台登入](https://github.com/user-attachments/assets/d9d17bae-016d-4475-8b64-bc2e0397d963) 
+![後台登入](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%BE%8C%E5%8F%B0%E7%99%BB%E5%85%A5.png) 
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-![後台搜尋](https://github.com/user-attachments/assets/53173d01-d096-4fae-b6df-bdead568a41f)
+![後台搜尋](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%BE%8C%E5%8F%B0%E6%90%9C%E5%B0%8B.png)
 
 
 # 後端新增blog頁面
@@ -20,7 +20,7 @@
 2. 可以控制是否顯示評論區等等
 3. 保存/發布功能
 
-![後台新增頁面](https://github.com/user-attachments/assets/2a271641-67ac-4102-b072-36c8326813e3)
+![後台新增頁面](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%BE%8C%E5%8F%B0%E6%96%B0%E5%A2%9E%E9%A0%81%E9%9D%A2.png)
 
 <br>
 
@@ -32,11 +32,11 @@
 
 <br>
 
-![後台分類頁面](https://github.com/user-attachments/assets/53ce7e48-d6a7-45fa-9016-4cabb2af4ce9)
+![後台分類頁面](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%BE%8C%E5%8F%B0%E5%88%86%E9%A1%9E%E9%A0%81%E9%9D%A2.png)
 
 <br>
 
-![後台標籤頁面](https://github.com/user-attachments/assets/f6895148-70fc-4815-be73-dd0925f14197)
+![後台標籤頁面](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%BE%8C%E5%8F%B0%E6%A8%99%E7%B1%A4%E9%A0%81%E9%9D%A2.png)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br>
 
-![前端頁面-首頁](https://github.com/user-attachments/assets/80d8035e-7c23-4a0b-95fb-8df6ad4aa617)
+![前端頁面-首頁](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%89%8D%E7%AB%AF%E9%A0%81%E9%9D%A2-%E9%A6%96%E9%A0%81.png)
 
 <br>
 
@@ -59,11 +59,11 @@
 2. 自動生成目錄
 3. 留言區
 
-![前端blog詳情-1](https://github.com/user-attachments/assets/41bea2bb-5a84-4f7f-8634-b2f652c264f5)
+![前端blog詳情-1](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%89%8D%E7%AB%AFblog%E8%A9%B3%E6%83%85-1.png)
 
 <br>
 
-![前端blog詳情-2](https://github.com/user-attachments/assets/c4fd4119-1cc1-4c02-8bab-1476d65ec396)
+![前端blog詳情-2](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%89%8D%E7%AB%AFblog%E8%A9%B3%E6%83%85-2.png)
 
 <br>
 
@@ -73,14 +73,14 @@
 2. 點擊該標籤顯示含此標籤之文章
 <br>
 
-![前端頁面-分類](https://github.com/user-attachments/assets/0553b30d-805e-4e2b-97e5-e55e2292f2fe)
+![前端頁面-分類](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%89%8D%E7%AB%AF%E9%A0%81%E9%9D%A2-%E5%88%86%E9%A1%9E.png)
 
 <br>
 
-![前端頁面-標籤](https://github.com/user-attachments/assets/7e3ec045-5c87-4e8a-8f2d-8569f1c7c400)
+![前端頁面-標籤](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%89%8D%E7%AB%AF%E9%A0%81%E9%9D%A2-%E6%A8%99%E7%B1%A4.png)
 
 # 前端部落格總表
 
-![前端頁面-blog總表](https://github.com/user-attachments/assets/603cab67-97ce-46d1-ac4a-acf93ce6cfb9)
+![前端頁面-blog總表](https://github.com/CHANGYU-WEN/Blog/blob/main/readmepictures/%E5%89%8D%E7%AB%AF%E9%A0%81%E9%9D%A2-blog%E7%B8%BD%E8%A1%A8.png)
 
 
